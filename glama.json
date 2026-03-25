@@ -1,0 +1,1 @@
+{"name": "WeatherOracle", "description": "Real-time weather \u2014 10 MCP tools for forecast, air quality, marine, astronomy", "category": "travel", "tags": ["weather", "forecast", "air-quality", "climate"], "tools": 10, "transport": "streamable-http", "endpoint": "https://tooloracle.io/weather/mcp/"}
