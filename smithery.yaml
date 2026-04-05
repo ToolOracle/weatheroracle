@@ -1,0 +1,5 @@
+name: WeatherOracle
+description: Weather data & forecasting — 10 tools
+endpoint: https://tooloracle.io/weather/mcp/
+transport: streamable-http
+license: MIT
